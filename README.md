@@ -22,7 +22,7 @@ FORTRESS adalah produk Pintu Baja Motif Kayu Sebuah terobosan inovasi terbaru se
 ---
 
 ## Pintu Baja Fortress
-![Pintu Baja Fortress](PB6.jpg)
+![Pintu Baja Fortress](PB6.JPG)
 
 ---
 
@@ -30,3 +30,4 @@ FORTRESS adalah produk Pintu Baja Motif Kayu Sebuah terobosan inovasi terbaru se
 Klik tombol di bawah untuk langsung terhubung via WhatsApp:
 
 [![WhatsApp Button](https://img.shields.io/badge/Chat%20via%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282170010763)
+
